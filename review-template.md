@@ -6,7 +6,7 @@
 * If available, provide content as requested where **[** and **]** are found.
 * If content is not available edit out **[** and **]** and everything in between, leave item heading
 * English only
-* To submit, create an issue and attach the completed review
+* To submit, create an issue and **attach** the completed review
 
 <hr>
 
@@ -36,8 +36,6 @@
     * Language(s) used - [*a comma separated list of languages such as : Javascript,PHP,etc. Indicate which one was used to send the requests*]
 * Link - [*if you have a repository using this API put the link here*]
 
-#### 
-
 ### Rating
 
 * Scores : [*use -5 to 5 to rate the categories*]
@@ -52,6 +50,8 @@
 
 ### Con VS Pro
 
+### Recommendations
+
 ### Review Author Info
 
 * GitHub Handle - 
@@ -63,6 +63,8 @@
 
 <hr>
 <p align="center">
-©&nbsp;&nbsp;Jim&nbsp;Motyl&nbsp;<a href="https://github.com/jxmot">jxmot</a>
+©&nbsp;&nbsp;Jim&nbsp;Motyl&nbsp;<a href="https://github.com/jxmot" target="_blank">jxmot</a>
+&nbsp;&nbsp;
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 </p>
 

@@ -15,7 +15,8 @@ To provide a reference for future use and to aid others in choosing a weather AP
 * Dark Sky
 * Apixu
 * Weather Unlocked
-* 
+* weatherbit.io
+
 
 <hr>
 <p align="center">

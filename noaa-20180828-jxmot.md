@@ -31,7 +31,7 @@ Scoring can range from -5 to +5. The overall score is the summation of the indiv
     * Documentation : **+2**
         * Optional Notes : Although there is *a notable amount* of documentation the failure is that there are no explanations of the terminology. Some terms and endpoint descriptions can be deduced but there are measurable amount of others that can't be. The cause is likely that the documentation has not been completed. Unfortunately you're required to do some searching to locate necessary pieces of information before you can use some of the endpoints. 
     * API Response Quality : **+2**
-        * Optional Notes :  The quality is sufficient in the observation and forecast endpoints. Due to the limitations of the documentation other endpoints were not tested, reviewed or used. The data format used was JSON-LD. The forecast responses contain links to the appropriate weather icon and the weather description text is generally sufficiently detailed.
+        * Optional Notes :  The quality is sufficient in the observation and forecast endpoints. Due to the limitations of the documentation other endpoints were not thoroughly tested, reviewed or used. The data format used was JSON-LD. The forecast responses contain links to the appropriate weather icon and the weather description text is generally sufficiently detailed.
     * API Reliability : **-3**
         * Optional Notes : Extremely unreliable. Observation and forecast endpoints return stale data or **503** statuses. And it can be hours or days before the data is updated. In addition, there are times when a response is received but key data values are missing. The entries are present but the values are `null`.
 

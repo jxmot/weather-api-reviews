@@ -2,8 +2,13 @@
 
 This file contains a log of failures, as described in the review : [noaa-20180828-jxmot.md](noaa-20180828-jxmot.md)
 
-Please note that there has been **many** failures that have occurred before the first log entry.
+Please note that there has been **many** failures that have occurred before the first log entry. The log entries are the result of :
 
+* Visually recognizing there is an issue. 
+* Analysis of -
+    * Application log files
+    * Responses obtained with Postman
+    
 ## Log
 
 Listed new to old (*all times are CST*): 

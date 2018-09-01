@@ -29,6 +29,7 @@ At first look this API *appears* to be sufficient for most weather data needs. H
 A log of failures with details are located in [noaa-log.md](noaa-log.md).
 
 ### Rating
+
 Scoring can range from -5 to +5. The overall score is the summation of the individual scores.
 
 * Scores : 

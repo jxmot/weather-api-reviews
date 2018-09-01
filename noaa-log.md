@@ -8,7 +8,8 @@ Please note that there has been **many** failures that have occurred before the 
 
 Listed new to old (*all times are CST*): 
 
-* 2018-08-31 @ 22:24:28 - KORD observation was updated again, observation time stamp was - 1535755860000( Friday, August 31, 2018 5:51:00 PM)
+* 2018-09-01 @ 07:24:29 - KORD observation was retrieved, observation time stamp was - 1535784660000(Saturday, September 1, 2018 1:51:00 AM)
+* 2018-08-31 @ 22:24:28 - KORD observation was updated again, observation time stamp was - 1535755860000(Friday, August 31, 2018 5:51:00 PM)
 * 2018-08-31 @ 20:54:28 - KORD observation was finally updated, observation time stamp was - 1535752260000(Friday, August 31, 2018 4:51:00 PM)
 * 2018-08-31 @ 19:33:00 - KORD observation has not updated since 08-30.
 * 2018-08-31 @ 14:18:00 - KORD forecast contains erroneous information.

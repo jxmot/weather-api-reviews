@@ -24,6 +24,10 @@ At first look this API *appears* to be sufficient for most weather data needs. H
 * Platform - Node.JS, [Postman](https://www.getpostman.com/)
 * Language(s) used - JavaScript
 
+### Failure Log
+
+A log of failures with details are located in [noaa-log.md](noaa-log.md).
+
 ### Rating
 Scoring can range from -5 to +5. The overall score is the summation of the individual scores.
 
@@ -33,7 +37,7 @@ Scoring can range from -5 to +5. The overall score is the summation of the indiv
     * API Response Quality : **+2**
         * Optional Notes :  The quality is sufficient in the observation and forecast endpoints. Due to the limitations of the documentation other endpoints were not thoroughly tested, reviewed or used. The data format used was JSON-LD. The forecast responses contain links to the appropriate weather icon and the weather description text is generally sufficiently detailed.
     * API Reliability : **-3**
-        * Optional Notes : Extremely unreliable. Observation and forecast endpoints return stale data or **503** statuses. And it can be hours or days before the data is updated. In addition, there are times when a response is received but key data values are missing. The entries are present but the values are `null`.
+        * Optional Notes : Extremely unreliable. Observation and forecast endpoints return stale data or **503** statuses. And it can be hours or days before the data is updated. In addition, there are times when a response is received but key data values are missing or out of reasonable range. The entries are present but the values are `null`.
 
 Overall Score : **+1**
 

@@ -36,7 +36,13 @@
     * Language(s) used - [*a comma separated list of languages such as : Javascript,PHP,etc. Indicate which one was used to send the requests*]
 * Link - [*if you have a repository using this API put the link here*]
 
+### Failure Log
+
+A log of failures with details are located in [log-template.md](log-template.md).
+
 ### Rating
+
+Scoring can range from -5 to +5. The overall score is the summation of the individual scores.
 
 * Scores : [*use -5 to 5 to rate the categories*]
     * Documentation : 
@@ -50,7 +56,15 @@
 
 ### Con VS Pro
 
+#### Con
+
+#### Pro
+
 ### Recommendations
+
+**API Users :** 
+
+**API Author(s) :**
 
 ### Review Author Info
 

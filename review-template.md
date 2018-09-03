@@ -54,6 +54,8 @@ Scoring can range from -5 to +5. The overall score is the summation of the indiv
     * TBD : 
         * Optional Notes :  
 
+Overall Score : **+/-X**
+
 ### Con VS Pro
 
 #### Con

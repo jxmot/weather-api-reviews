@@ -33,7 +33,7 @@ Listed new to old (*all times are CST*):
 ## Notes
 
 * Endpoints are accessed using Postman and a Node application.
-* Access frequency of the Node application is > 1 hour between requests for forecasts and observations. And forecasts occur approximately 5 to 20 minutes after the observations request.
+* Access frequency of the Node application is > 1 hour between requests for forecasts and observations. And forecast requests occur approximately 5 to 20 minutes after the observations request.
 * Application results verified with Postman.
 
 

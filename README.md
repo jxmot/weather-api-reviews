@@ -8,11 +8,18 @@ This repository contains a collection of weather API reviews. Each was examined 
 
 To provide a reference for future use and to aid others in choosing a weather API for their own projects. It can also be used by API providers to improve their service.
 
+## Technical Overview
+
+* Platforms
+    * A Node.js application running on Linux or Windows
+    * [Postman](https://www.getpostman.com/) running on Windows 10 Pro
+* Geographic Area(s) of interest :
+    * Chicago, Illinois US and surrounding area up to 50 miles from the city center.
+
 ## API Reviews
 
 * [NOAA](noaa-20180828-jxmot.md) 2018-08-29
 * Open Weather Map
-* Dark Sky
 * Apixu
 * Weather Unlocked
 * weatherbit.io

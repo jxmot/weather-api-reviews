@@ -13,6 +13,11 @@ Please note that there has been **many** failures that have occurred before the 
 
 Listed new to old (*all times are CST*): 
 
+* 2018-10-02 - Forecast data has finally updated, initially it was 4 days behind but finished catching up.
+* 2018-10-01 - Forecast data has not updated since 2018-09-25 @ 02:15 CST
+* 2018-09-25 - Data errors in observation data.
+* 2018-09-24 - Up to this point the observation times have greatly improved.
+* 2018-09-12 - Seems like the KORD observation data has almost caught up with *real time*. 
 * 2018-09-06 - For a period of time the KORD observation data contained erroneous or NULL data
 * 2018-09-01 through 2018-09-05 - KORD observation data has been consistently behind by 4 to 6 hours
 * 2018-09-01 @ 23:54:29 - KORD observation was retrieved, observation time stamp was - 1535822700000(Saturday, September 1, 2018 12:25:00 PM)

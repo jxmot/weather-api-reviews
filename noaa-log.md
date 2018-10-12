@@ -2,7 +2,7 @@
 
 This file contains a log of failures, as described in the review : [noaa-20180828-jxmot.md](noaa-20180828-jxmot.md)
 
-Please note that there has been **many** failures that have occurred before the first log entry. The log entries are the result of :
+Please note that there have been **many** failures that have occurred before the first log entry. The log entries are the result of :
 
 * Visually recognizing there is an issue. 
 * Analysis of -
@@ -13,6 +13,8 @@ Please note that there has been **many** failures that have occurred before the 
 
 Listed new to old (*all times are CST*): 
 
+* 2018-10-12 @ 12:06pm - Data errors in observation data.
+* 2018-10-11 - Data errors in observation data.
 * 2018-10-02 - Forecast data has finally updated, initially it was 4 days behind but finished catching up.
 * 2018-10-01 - Forecast data has not updated since 2018-09-25 @ 02:15 CST
 * 2018-09-25 - Data errors in observation data.
